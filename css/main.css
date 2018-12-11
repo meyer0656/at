@@ -1,0 +1,159 @@
+html {
+  height: 100%;
+}
+
+.wrapper {
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main section .page_container {
+  position: relative;
+  top: 10%;
+  margin: 0 auto 0;
+  max-width: 950px;
+}
+
+h1 {
+  text-align: left;
+  padding: 10px;
+  margin-top: 100px;
+  color: #000;
+  margin-bottom: 5px;
+  font-size: 70px;
+  width: 100%;
+  box-sizing: border-box;
+
+  font-weight: 100;
+  margin: 0;
+  font-family: 'Archivo Black', sans-serif;
+  color: Brown;
+}
+
+p {
+  font-family: 'Arvo';
+  line-height: 160%;
+  color: #013220;
+  text-shadow: 2px 2px 4px gray;
+  padding-left: 50px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 35px;
+}
+
+ul {
+  font-family: 'Arvo';
+  line-height: 160%;
+  color: #013220;
+    text-shadow: 2px 2px 4px gray;
+  padding-left: 100px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 35px;
+}
+
+.what {
+  background:url(../images/what.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.who {
+  background:url(../images/end.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.when {
+  background:url(../images/when.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.cost {
+  background:url(../images/cost2.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.pack {
+  background:url(../images/pack.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.shelter {
+  background:url(../images/shelter.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.bag {
+  background:url(../images/sleepingbag.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.food {
+  background:url(../images/food.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.water {
+  background:url(../images/water.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.firstaid {
+  background:url(../images/firstaid.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.end {
+  background:url(../images/questions.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+a {
+    text-shadow: 2px 2px 4px;
+}
+
+h1 {
+  text-align: left;
+  padding: 10px;
+  margin-top: 50px;
+  color: #000;
+  margin-bottom: 5px;
+  font-size: 35px;
+  width: 100%;
+  box-sizing: border-box;
+
+  font-weight: 100;
+  margin: 0;
+  font-family: 'Archivo Black', sans-serif;
+  color: Brown;
+}
+
+p {
+  font-family: 'Arvo';
+  line-height: 160%;
+  color: #013220;
+  text-shadow: .5px .5px 4px gray;
+  padding-left: 25px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+}
+
+ul {
+  font-family: 'Arvo';
+  line-height: 160%;
+  color: #013220;
+    text-shadow: .5px .5px 4px gray;
+  padding-left: 50px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+}
