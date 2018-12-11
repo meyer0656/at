@@ -37,24 +37,24 @@ h1 {
 
 p {
   font-family: 'Arvo';
-  line-height: 160%;
+  line-height: 140%;
   color: #013220;
   text-shadow: 2px 2px 4px gray;
   padding-left: 50px;
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 35px;
+  font-size: 30px;
 }
 
 ul {
   font-family: 'Arvo';
-  line-height: 160%;
+  line-height: 140%;
   color: #013220;
     text-shadow: 2px 2px 4px gray;
   padding-left: 100px;
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .what {
